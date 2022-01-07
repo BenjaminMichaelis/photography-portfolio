@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
     "develop": "cross-env CYPRESS_SUPPORT=y gatsby develop",
     "dev": "gatsby develop -o",
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
