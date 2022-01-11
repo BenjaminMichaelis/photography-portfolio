@@ -109,14 +109,14 @@ const SEO = ({ title, desc, banner, pathname, node, individual }: Props) => {
       },
       position: 3,
     },
-    {
-      '@type': 'ListItem',
-      item: {
-        '@id': `${siteUrl}/instagram`,
-        name: 'About',
-      },
-      position: 4,
-    },
+    // {
+    //   '@type': 'ListItem',
+    //   item: {
+    //     '@id': `${siteUrl}/instagram`,
+    //     name: 'About',
+    //   },
+    //   position: 4,
+    // },
   ]
 
   let schemaArticle = null
