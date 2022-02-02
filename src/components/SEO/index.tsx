@@ -222,7 +222,6 @@ const query = graphql`
         ogLanguage
         author
         twitter
-        facebook
       }
     }
   }
