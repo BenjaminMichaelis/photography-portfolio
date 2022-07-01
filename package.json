@@ -1,14 +1,14 @@
 {
   "name": "benjamin-michaelis-photography-portfolio",
   "private": true,
-  "description": "Benjamin Michaelis's Photograph Portfolio",
+  "description": "Benjamin Michaelis's Photography Portfolio",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
+    "build": "gatsby build",
     "develop": "cross-env CYPRESS_SUPPORT=y gatsby develop",
     "dev": "gatsby develop -o",
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
+    "start": "gatsby develop",
     "serve": "gatsby serve",
     "lint": "eslint . --ext .ts,.tsx --ignore-path .gitignore",
     "lint:fix": "yarn lint --fix",
