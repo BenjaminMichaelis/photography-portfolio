@@ -252,8 +252,8 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
-              Made By <a href="https://bencodes.michaelis.net">Benjamin Michaelis</a>.<br />
-              <a href="https://github.com/BenjaminMichaelis/photography-site">Source</a>.
+              Made By <a href="https://benjamin.michaelis.net">Benjamin Michaelis</a>.<br />
+              <a href="https://github.com/BenjaminMichaelis/PhotographyPortfolio">Source</a>.
             </Box>
           </Footer>
         </Wrapper>
