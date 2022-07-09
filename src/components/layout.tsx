@@ -253,7 +253,7 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
               Made By <a href="https://benjamin.michaelis.net">Benjamin Michaelis</a>.<br />
-              <a href="https://github.com/BenjaminMichaelis/PhotographyPortfolio">Source</a>.
+              <a href="https://github.com/BenjaminMichaelis/photography-portfolio">Source</a>.
             </Box>
           </Footer>
         </Wrapper>
