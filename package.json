@@ -30,7 +30,7 @@
     "babel-plugin-styled-components": "^2.0.2",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.6.0",
-    "gatsby": "^4.25.0",
+    "gatsby": "^4.25.4",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-google-analytics": "^4.25.0",
     "gatsby-plugin-google-gtag": "^4.25.0",
