@@ -53,7 +53,7 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-spring": "^9.7.0",
-    "styled-components": "^5.1.1",
+    "styled-components": "^6.0.2",
     "styled-system": "^5.1.5",
     "trim": "^1.0.1",
     "typeface-work-sans": "^1.1.13",
